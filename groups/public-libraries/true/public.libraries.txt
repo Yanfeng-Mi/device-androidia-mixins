@@ -1,2 +1,7 @@
 # Specify additional native libraries
 # So that Apps can use Intel proprietary libraries
+libOpenCL.so
+libigdrcl.so
+libopencl-clang.so
+libigc.so
+libigdfcl.so
